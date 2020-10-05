@@ -40,6 +40,16 @@ Example
 
 git add *
 
+For a full rundown example:
+
+git clone https://github.com/DigitalBork/GitGud.git
+*edit / create files*
+git add * or git commit -a
+git commit -m "Added example workflow with git!"
+git push
+
+Now profit!
+
 For pull requests, AFAIK we accept them through the web interface? Feel free to submit a pull request with changes, suggestions, etc!
 
 With <3, DigitalBork!
