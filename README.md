@@ -63,7 +63,8 @@ Example
 
 # Useful links
 
-# The GitHub Markdown Cheat Sheet
+### The GitHub Markdown Cheat Sheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 With <3, DigitalBork!
+s
