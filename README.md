@@ -59,6 +59,22 @@ Example
 >git commit -m "Added example workflow with git!"
 >git push
 
+# How to delete a branch
+
+>git branch -d <branch name>
+
+Example:
+
+>git branch -d testing
+
+# How to add a remote repo
+
+>git remote add <git remote>
+
+Example:
+
+>git remote add https://github.com/DigitalBork/GitGud
+
 **For pull requests, AFAIK we accept them through the web interface? Feel free to submit a pull request with changes, suggestions, etc! I work mostly from the terminal / Atom / the web interface**
 
 # Useful links
@@ -67,4 +83,3 @@ Example
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 With <3, DigitalBork!
-s
