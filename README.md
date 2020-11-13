@@ -75,6 +75,14 @@ Example:
 
 >git remote add https://github.com/DigitalBork/GitGud
 
+# How to set the default remote branch to commit to
+
+>git remote set-head <branch>
+
+Example:
+
+>git remote set-head https://www.github.com/DigitalBork/GitGud:master
+
 **For pull requests, AFAIK we accept them through the web interface? Feel free to submit a pull request with changes, suggestions, etc! I work mostly from the terminal / Atom / the web interface**
 
 # Useful links
